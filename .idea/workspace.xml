@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="new java file created">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ques/max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ques/swap.java" afterDir="false" />
+    <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="questins done">
+      <change afterPath="$PROJECT_DIR$/src/arrays/ques/reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ques/max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ques/max.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.max">
+  <component name="RunManager" selected="Application.reverse">
     <configuration name="arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arraylist" />
       <module name="javaboot" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nofixedcolumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.nofixedcolumn" />
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ques.reverse" />
       <module name="javaboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="arrays.ques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverse" />
         <item itemvalue="Application.max" />
         <item itemvalue="Application.swap" />
         <item itemvalue="Application.multiarraylist" />
         <item itemvalue="Application.arraylist" />
-        <item itemvalue="Application.nofixedcolumn" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1656740567044" duration="893000" />
       <workItem from="1656741475027" duration="89000" />
       <workItem from="1656767923257" duration="619000" />
-      <workItem from="1656819552626" duration="13709000" />
+      <workItem from="1656819552626" duration="14682000" />
     </task>
     <task id="LOCAL-00001" summary="new java file created">
       <created>1656147359474</created>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656836705135</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="questins done">
+      <created>1656838461203</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656838461203</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new java file created" />
-    <option name="LAST_COMMIT_MESSAGE" value="new java file created" />
+    <MESSAGE value="questins done" />
+    <option name="LAST_COMMIT_MESSAGE" value="questins done" />
   </component>
 </project>

@@ -8,6 +8,14 @@ public class max {
     }
     //for max in a range
     static int maxrange(int[] arr,int start,int end){
+
+        if(end> start){
+            return -1;
+        }
+        if(arr==null){
+            return -1;
+        }
+
         int maxval =arr[start];
         for (int i = start; i < end; i++) {
             if(arr[i]>maxval){
@@ -17,6 +25,7 @@ public class max {
         return maxval;
     }
     //for max of complete array
+
     static int max(int[] arr){
         int maxval=arr[0];
         for (int i = 1; i < arr.length; i++) {
