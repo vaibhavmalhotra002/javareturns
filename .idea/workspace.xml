@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="roundoff">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ques/main.java" afterDir="false" />
+    <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="main">
+      <change afterPath="$PROJECT_DIR$/src/Linear_search/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_search/linsear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leap">
+  <component name="RunManager" selected="Application.linsear">
     <configuration name="AsciiValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.AsciiValue" />
       <module name="javaboot" />
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ques.max" />
+    <configuration name="linsear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linear_search.linsear" />
       <module name="javaboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.ques.*" />
+          <option name="PATTERN" value="Linear_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linsear" />
         <item itemvalue="Application.leap" />
         <item itemvalue="Application.AsciiValue" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.reverse" />
-        <item itemvalue="Application.max" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,7 @@
       <workItem from="1657131074586" duration="180000" />
       <workItem from="1657177354065" duration="27000" />
       <workItem from="1657300853889" duration="1288000" />
-      <workItem from="1657373629293" duration="1976000" />
+      <workItem from="1657373629293" duration="7641000" />
     </task>
     <task id="LOCAL-00001" summary="new java file created">
       <created>1656147359474</created>
@@ -271,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657301260891</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="main">
+      <created>1657388595212</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1657388595212</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +306,22 @@
     <MESSAGE value="power of a number java created" />
     <MESSAGE value="rootss java created" />
     <MESSAGE value="roundoff" />
-    <option name="LAST_COMMIT_MESSAGE" value="roundoff" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linear_search/linsear.java</url>
+          <line>46</line>
+          <properties class="Linear_search.linsear" method="linearsearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
