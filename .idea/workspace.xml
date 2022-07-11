@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="serch">
-      <change afterPath="$PROJECT_DIR$/src/functions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions/hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +45,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.functions.Main">
-    <configuration name="AsciiValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.AsciiValue" />
-      <module name="javaboot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hello">
     <configuration name="SearchIntStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Linear_search.SearchIntStrings" />
       <module name="javaboot" />
@@ -73,6 +61,19 @@
     </configuration>
     <configuration name="functions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functions.Main" />
+      <module name="javaboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.hello" />
       <module name="javaboot" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hello" />
         <item itemvalue="Application.functions.Main" />
         <item itemvalue="Application.SearchIntStrings" />
         <item itemvalue="Application.linsear" />
         <item itemvalue="Application.leap" />
-        <item itemvalue="Application.AsciiValue" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,8 @@
       <workItem from="1657131074586" duration="180000" />
       <workItem from="1657177354065" duration="27000" />
       <workItem from="1657300853889" duration="1288000" />
-      <workItem from="1657373629293" duration="12286000" />
+      <workItem from="1657373629293" duration="12689000" />
+      <workItem from="1657452301912" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="new java file created">
       <created>1656147359474</created>
@@ -292,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657442388425</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="serch">
+      <created>1657452034739</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1657452034739</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

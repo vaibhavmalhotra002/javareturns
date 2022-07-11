@@ -6,10 +6,10 @@ public class Main {
 
     public static void main(String[] args) {
         //Q: Take input of two numbers and print the sum
-
         sum();
-
     }
+
+
     static void sum(){
         Scanner in=new Scanner(System.in);
         System.out.print("Enter number 1:");
