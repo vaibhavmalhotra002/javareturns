@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="serch">
-      <change afterPath="$PROJECT_DIR$/src/functions/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="21b938ea-8ff1-4a47-adf2-d79e58ac25af" name="Changes" comment="serch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +141,7 @@
       <workItem from="1657177354065" duration="27000" />
       <workItem from="1657300853889" duration="1288000" />
       <workItem from="1657373629293" duration="12689000" />
-      <workItem from="1657452301912" duration="1149000" />
+      <workItem from="1657452301912" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="new java file created">
       <created>1656147359474</created>
@@ -301,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657452034739</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="serch">
+      <created>1657558863146</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1657558863146</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
